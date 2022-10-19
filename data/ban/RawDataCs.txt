@@ -1,0 +1,80 @@
+Time elapsed to solve matrix: 7/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 5/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to solve matrix: 4/100000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 19/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 19/1000 ms
+Time elapsed to calculate 100 factorial: 20/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 19/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 19/1000 ms
+Time elapsed to calculate 100 factorial: 19/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate 100 factorial: 18/1000 ms
+Time elapsed to calculate 100 factorial: 17/1000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to calculate sum of vectors: 3/10000000 ms
+Time elapsed to write text: 274/1000 ms
+Time elapsed to write text: 315/1000 ms
+Time elapsed to write text: 279/1000 ms
+Time elapsed to write text: 383/1000 ms
+Time elapsed to write text: 327/1000 ms
+Time elapsed to write text: 309/1000 ms
+Time elapsed to write text: 356/1000 ms
+Time elapsed to write text: 299/1000 ms
+Time elapsed to write text: 373/1000 ms
+Time elapsed to write text: 359/1000 ms
+Time elapsed to write text: 321/1000 ms
+Time elapsed to write text: 320/1000 ms
+Time elapsed to write text: 341/1000 ms
+Time elapsed to write text: 276/1000 ms
+Time elapsed to write text: 342/1000 ms
+Time elapsed to write text: 354/1000 ms
+Time elapsed to write text: 303/1000 ms
+Time elapsed to write text: 337/1000 ms
+Time elapsed to write text: 328/1000 ms
+Time elapsed to write text: 294/1000 ms

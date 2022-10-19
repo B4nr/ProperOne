@@ -1,0 +1,80 @@
+Elapsed time in nanoseconds for writing text #1 15024900 ns
+Elapsed time in nanoseconds for writing text #2 1548400 ns
+Elapsed time in nanoseconds for writing text #3 1017700 ns
+Elapsed time in nanoseconds for writing text #4 856200 ns
+Elapsed time in nanoseconds for writing text #5 1540400 ns
+Elapsed time in nanoseconds for writing text #6 978600 ns
+Elapsed time in nanoseconds for writing text #7 915100 ns
+Elapsed time in nanoseconds for writing text #8 502800 ns
+Elapsed time in nanoseconds for writing text #9 1020900 ns
+Elapsed time in nanoseconds for writing text #10 738900 ns
+Elapsed time in nanoseconds for writing text #11 1574300 ns
+Elapsed time in nanoseconds for writing text #12 1020800 ns
+Elapsed time in nanoseconds for writing text #13 840800 ns
+Elapsed time in nanoseconds for writing text #14 3992400 ns
+Elapsed time in nanoseconds for writing text #15 16810000 ns
+Elapsed time in nanoseconds for writing text #16 12093900 ns
+Elapsed time in nanoseconds for writing text #17 5172300 ns
+Elapsed time in nanoseconds for writing text #18 1798300 ns
+Elapsed time in nanoseconds for writing text #19 4213800 ns
+Elapsed time in nanoseconds for writing text #20 1521200 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #1 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #2 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #3 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #4 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #5 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #6 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #7 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #8 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #9 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #10 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #11 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #12 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #13 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #14 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #15 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #16 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #17 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #18 100 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #19 0 ns
+Elapsed time in nanoseconds for calculating Factorial of 100 #20 100 ns
+Elapsed time in nanoseconds for calculating Matrix #1 300 ns
+Elapsed time in nanoseconds for calculating Matrix #2 400 ns
+Elapsed time in nanoseconds for calculating Matrix #3 300 ns
+Elapsed time in nanoseconds for calculating Matrix #4 300 ns
+Elapsed time in nanoseconds for calculating Matrix #5 200 ns
+Elapsed time in nanoseconds for calculating Matrix #6 300 ns
+Elapsed time in nanoseconds for calculating Matrix #7 300 ns
+Elapsed time in nanoseconds for calculating Matrix #8 300 ns
+Elapsed time in nanoseconds for calculating Matrix #9 300 ns
+Elapsed time in nanoseconds for calculating Matrix #10 300 ns
+Elapsed time in nanoseconds for calculating Matrix #11 300 ns
+Elapsed time in nanoseconds for calculating Matrix #12 200 ns
+Elapsed time in nanoseconds for calculating Matrix #13 200 ns
+Elapsed time in nanoseconds for calculating Matrix #14 300 ns
+Elapsed time in nanoseconds for calculating Matrix #15 300 ns
+Elapsed time in nanoseconds for calculating Matrix #16 200 ns
+Elapsed time in nanoseconds for calculating Matrix #17 300 ns
+Elapsed time in nanoseconds for calculating Matrix #18 400 ns
+Elapsed time in nanoseconds for calculating Matrix #19 300 ns
+Elapsed time in nanoseconds for calculating Matrix #20 400 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #1 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #2 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #3 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #4 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #5 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #6 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #7 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #8 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #9 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #10 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #11 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #12 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #13 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #14 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #15 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #16 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #17 100 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #18 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #19 0 ns
+Elapsed time in nanoseconds for calculating the sum of vectors #20 0 ns
